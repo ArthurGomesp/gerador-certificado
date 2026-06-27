@@ -1,0 +1,9 @@
+#divi {
+  background-color: orange;
+  display: flex;
+  width: 25ch;
+  height: 25ch;
+  justify-content: center;
+  align-items: center;
+}
+
